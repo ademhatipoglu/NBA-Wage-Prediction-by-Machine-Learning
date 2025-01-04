@@ -33,11 +33,8 @@ The code is written in R and requires the following R packages to be installed:
 4. Modify the code as per your requirements, such as changing the data sources or adding additional features.
 5. Feel free to explore the code and adapt it for your own projects.
 
-## Results
-The trained Random Forest model predicts the wages of NBA players based on their performance statistics. The model's performance can be evaluated using metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared. The evaluation results are printed in the console.
-
 ## License
-This project is licensed under the MIT License. Feel free to use the code for educational and non-commercial purposes.
+Feel free to use the code for educational and non-commercial purposes.
 
 ## Acknowledgments
 - The code in this repository is based on the tutorials and examples provided by the `rvest`, `dplyr`, `randomForest`, and `ggplot2` package documentation.
